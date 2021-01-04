@@ -17,6 +17,6 @@ Stevens CS546- Web Programming I
 
 (8) Palindromes: Part 1
 
-(9) Palindromes: Par 2
+(9) Palindromes: Part 2
 
 (10)Authentication and Middleware
