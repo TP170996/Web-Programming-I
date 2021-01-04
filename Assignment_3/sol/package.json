@@ -1,0 +1,19 @@
+{
+  "name": "cs546-ws-lab-3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "file-exists": "^3.0.1",
+    "modules": "^0.4.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tejashree Prabhu 10450404",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cs-546-lab9",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "start:app.js"
+  },
+  "author": "Tejashree Prabhu cwid 10450404",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "description": "",
+  
+  
+  "KeyName":{
+    "Description":"Name of an existing EC2 KeyPAir to enable SSH acess to the instances",
+    "Type":"AWS::EC2::KeyPair::KeyName",
+    "Default":"tejashreeprabhu",
+    "ConstraintDescription":"must be the name of an existing EC2 KeyPair"
+}
+}
+
+

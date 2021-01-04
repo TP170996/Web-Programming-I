@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="login-form" method="POST" action="/login">
+
+        <label for="usename">Username</label>
+        <input id="username" type="text" name="username">
+
+        <label for="password">Password</label>
+        <input id="password" type="password" name="password">
+
+        <button type="submit">Log In</button>
+    </form>
+    {{#if error}}
+        <p>Your username or password did not match.  Please try again</p>
+    {{/if}}
+</body>
+</html>

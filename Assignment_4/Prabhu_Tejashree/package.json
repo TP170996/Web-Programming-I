@@ -1,0 +1,16 @@
+{
+  "name": "cs-546-lab4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start:index.js"
+  },
+  "author": "Tejashree Prabhu cwid 10450404",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "update-mongo": "0.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}

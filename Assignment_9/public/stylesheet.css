@@ -1,0 +1,64 @@
+header{
+    text-align: center;
+    padding: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+footer{
+    text-align: center;
+    padding: 100px;
+    color: darkslategray;
+}
+
+label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: darkslategray;
+
+}
+
+input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: dimgray;
+    border-color:lightgray;
+    
+
+
+}
+
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: 20px;
+    font-size: 18px;
+    color: darkslategrey;
+
+}
+
+h1{
+    font-size: 40px;
+    color: darkslategray;
+}
+
+
+form{
+    padding: 55px;
+    text-align: center;
+}
+
+.is-palindrome{
+    color: #0000FF;
+    
+}
+
+.not-palindrome{
+    color:#FF0000;
+    
+}
+
+ol{    
+padding-left: 600px;
+}
+
