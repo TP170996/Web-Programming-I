@@ -1,0 +1,22 @@
+{
+  "name": "lab_6",
+  "version": "1.0.0",
+  "description": "CS-546-WS-Lab-6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lab 6",
+    "Web Programming"
+  ],
+  "author": "Tejashree Prabhu 10450404",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongo": "^0.1.0",
+    "uuid": "^3.0.1"
+  }
+}

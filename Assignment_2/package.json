@@ -1,0 +1,11 @@
+{
+  "name": "cs-546-ws-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start:index.js"
+  },
+  "author": "Tejashree Prabhu 10450404",
+  "license": "ISC"
+}
